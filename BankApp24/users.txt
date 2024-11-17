@@ -1,0 +1,10 @@
+Hemen|Hemen123!|False
+Alice|Alice123!|False
+Bob|Bob123!|False
+Eyosias|Password123!|True
+Charlie|Charlie123!|False
+Mariam|Mariam123!|False
+Kebede|Kebede123!|False
+Tsegaye|Tsegaye123!|False
+
+
