@@ -17,7 +17,7 @@ A simple bank management system built in C#. This application allows users to ma
 ![Skärmbild 2024-11-17 130138](https://github.com/user-attachments/assets/71326772-80e0-49e0-9e23-c1392dbb8173)
 
 ### OOAD (Open in new window):
-[https://github.com/user-attachments/assets/4349f4a7-2c75-4c50-880c-c7cfe721493b](https://github.com/eyosias87/BankAppProject/tree/master)
+
 
 ---
 
